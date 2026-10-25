@@ -26,4 +26,4 @@ python main.py
 - `scoreboard.py` - score display
 - `assets/` - game screenshots and other static files
 
-Have Fun! 
+Have Fun! 😝
